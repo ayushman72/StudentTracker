@@ -12,7 +12,7 @@ cd StudentTracker
 Install the requirements 
 
 ```bash
-pip install -r requiremets.txt
+pip install -r requirements.txt
 ```
 
 Now you can import it at the top and start working
@@ -26,7 +26,7 @@ python report.py [API_ENDPOINT_JSON_OR_API_LINK] --quiz-to-check [QUIZ_TO_CHECK_
 ```
 Example :
 ```bash
-python report.py  https://api.jsonserve.com/XgAgFJ --quiz-to-check .\jsons\dummy_check.json 
+python report.py  https://api.jsonserve.com/XgAgFJ --quiz-to-check ./jsons/dummy_check.json 
 ```
 
 
