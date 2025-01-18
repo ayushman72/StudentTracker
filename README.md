@@ -5,8 +5,8 @@
 Clone the repository and enter the folder
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/ayushman72/StudentTracker.git
+cd StudentTracker
 ```
 
 Install the requirements 
