@@ -263,7 +263,7 @@ class MassTracker():
         threat:list[str] = []
         
         TWOS = [threat,weakness,opportunity,strength]
-        TWOS_name = ['threat','weakness','opportunity','strenght']
+        TWOS_name = ['threat','weakness','opportunity','strength']
         
         suggestions:list[str] = []
         

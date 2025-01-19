@@ -84,6 +84,10 @@ class TopicTracker():
     
     def __repr__(self) -> str: ...
     
+    def get_quiz(self,quiz_id:int) -> QuizTracker:
+        '''returns a `QuizTracker` based on the `quiz_id`'''
+        ...
+    
     def show_quizes(self) -> List[int]:
         '''returns the list of quizes that were added in the topic'''
         ...
